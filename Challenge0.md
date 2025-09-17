@@ -2,15 +2,18 @@
 
 Access via SSH | bandit.labs.overthewire.org port 2220
 
-credentials:
+Credentials:
 
 ~~~
-username bandit0
-passwd bandit0
+username: bandit0
+password: bandit0
 ~~~
 
 ## How I resolved it:
 
-When you access via SSH with the command "ssh bandit0@bandit.labs.overthewire.org -p 2220"
-we find a file called readme, inside which is the flag
+When you access via SSH with the command:
+
+```bash
+ssh bandit0@bandit.labs.overthewire.org -p 2220
+
 
