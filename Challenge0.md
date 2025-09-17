@@ -14,7 +14,3 @@ passwd bandit0
 When you access via SSH with the command "ssh bandit0@bandit.labs.overthewire.org -p 2220"
 we find a file called readme, inside which is the flag
 
-Answer:
-~~~
-ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If (this changes btw)
-~~~
